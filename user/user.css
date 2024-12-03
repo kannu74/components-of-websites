@@ -168,3 +168,83 @@ nav ul li a:hover {
     border-radius: 4px;
     cursor: pointer;
 }
+
+/* Footer Styles */
+footer {
+    background-color: #2E7D32; /* Dark green background */
+    color: #FFFFFF; /* White text for contrast */
+    padding: 20px;
+    text-align: center;
+}
+
+.footer-content {
+    margin-bottom: 15px;
+}
+
+.footer-content nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.footer-content nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+.footer-content nav ul li a {
+    color: #A5D6A7; /* Light green for links */
+    text-decoration: none;
+}
+
+.footer-content nav ul li a:hover {
+    text-decoration: underline; /* Underline on hover for better UX */
+}
+
+.social-media {
+    margin: 10px 0;
+}
+
+.social-media a {
+    color: #A5D6A7; /* Light green for social media links */
+    margin: 0 10px;
+}
+
+.newsletter-signup {
+    margin: 15px 0;
+}
+
+.newsletter-signup input[type="email"] {
+    padding: 5px;
+    border-radius: 5px;
+    border: none;
+}
+
+.newsletter-signup button {
+    background-color: #4CAF50; /* Medium green for button */
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.newsletter-signup button:hover {
+    background-color: #388E3C; /* Darker green on hover */
+}
+
+.cta button {
+    background-color: #66BB6A; /* Light green for CTA button */
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.cta button:hover {
+    background-color: #4CAF50; /* Change to medium green on hover */
+}
+
+.footer-bottom {
+    margin-top: 15px;
+}

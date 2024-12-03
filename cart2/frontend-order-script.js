@@ -1,5 +1,5 @@
 // Add this to your existing script.js
-
+//this folder is directly integrated to the index.html
 // Get checkout button
 const checkOutButton = document.querySelector('.checkOut');
 

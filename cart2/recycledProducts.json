@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Recycled Paper Notebook",
+        "price": 10,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name": "Upcycled Glass Vase",
+        "price": 15,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name": "Reclaimed Wood Coasters",
+        "price": 12,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name": "Recycled Plastic Tote Bag",
+        "price": 18,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name": "Eco-Friendly Bamboo Straw Set",
+        "price": 8,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name": "Recycled Cotton T-Shirt",
+        "price": 20,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name": "Repurposed Denim Backpack",
+        "price": 30,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name": "Recycled Paper Wall Art",
+        "price": 25,
+        "image": "image/8.png"
+    },
+    {
+        "id": 9,
+        "name": "Upcycled Wine Bottle Lamp",
+        "price": 35,
+        "image": "image/9.png"
+    },
+    {
+        "id": 10,
+        "name": "Recycled Rubber Doormat",
+        "price": 22,
+        "image": "image/10.png"
+    }
+]
